@@ -94,7 +94,7 @@ const Footer = () => {
               to="https://github.com/ahmedsemih"
               target="_blank"
             >
-              Ahmed Semih Erkan
+              Lathika Devanand
             </Link>
           </p>
         </div>
