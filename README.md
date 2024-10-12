@@ -33,11 +33,6 @@ https://github.com/user-attachments/assets/d0fb2bb3-fc53-4146-bcb0-f3c57cc381c1
 - [Bcrypt](https://www.npmjs.com/package/bcryptjs) - Encryption
 - [Cloudinary](https://www.cloudinary.com/) - Image Storage
 
-## :camera_flash: Screenshots
-![estate-hub-home](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/2f14a18e-489f-4064-a231-ddca59ce8b63)
-![estate-hub-search](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/314ae60b-d111-4d27-b088-db5d60f3e83c)
-![estate-hub-estate](https://github.com/ahmedsemih/MERN-Stack-Real-Estate-App/assets/102798814/0ca1cc43-9a72-48af-a77d-294a746e89b2)
-
 ## :triangular_flag_on_post: Getting Started
 
 First of all you need to clone the repository and install the dependencies for server and client
